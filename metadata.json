@@ -1,0 +1,5 @@
+{
+  "name": "Clock In/Out Slider",
+  "description": "A mobile UI component for clocking in and out, featuring a swipe-to-confirm action for clocking out, based on user's design.",
+  "requestFramePermissions": []
+}
